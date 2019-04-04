@@ -2,3 +2,4 @@
 sdkasjskdfjskd
 asdksdlf
 asdsdfoasdoasadasd
+#licencja
