@@ -5,3 +5,4 @@ sdsff
 asdksdlf
 asdsdfoasdoasadasd
 #licencja
+##COKOKLWIEK
