@@ -1,1 +1,6 @@
-#testosetosetosetoseot
+
+testosetosetosetoseot
+
+#dokumentacja testowania 
+asdsfdoioo2342rwf
+
