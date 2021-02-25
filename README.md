@@ -1,8 +1,1 @@
-#Moje pierwsze repozytorium
-sdkasjskdfjskd
-#autorzy
-sdsff
-asdksdlf
-asdsdfoasdoasadasd
-#licencja
-##COKOKLWIEK
+Current github: [here](https://github.com/lewelyn7/)
